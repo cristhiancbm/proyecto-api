@@ -1,4 +1,4 @@
 print("hola mundo!!!!!")
-print("mi edad es")
+print("mi edad es: ")
 
 print("como estas")
